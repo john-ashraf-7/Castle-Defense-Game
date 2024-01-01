@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Market</class>
+ <widget class="QMainWindow" name="Market">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>978</width>
+    <height>697</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Market</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButtonContinue">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>610</y>
+      <width>241</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelpix">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>-10</y>
+      <width>981</width>
+      <height>711</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonBuy1">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>220</y>
+      <width>241</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonBuy2">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>220</y>
+      <width>241</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonBuy3">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>220</y>
+      <width>241</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonBuy4">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>220</y>
+      <width>251</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonBuy5">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>510</y>
+      <width>241</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonBuy6">
+    <property name="geometry">
+     <rect>
+      <x>250</x>
+      <y>510</y>
+      <width>241</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonBuy7">
+    <property name="geometry">
+     <rect>
+      <x>500</x>
+      <y>510</y>
+      <width>241</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonBuy8">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>510</y>
+      <width>241</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelTokens">
+    <property name="geometry">
+     <rect>
+      <x>710</x>
+      <y>620</y>
+      <width>271</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Money: </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelError">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>640</y>
+      <width>371</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Errors</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelpix5">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>300</y>
+      <width>111</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelpix1">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>0</y>
+      <width>71</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelpix6">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>290</y>
+      <width>121</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelpix7">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>310</y>
+      <width>101</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelpix8">
+    <property name="geometry">
+     <rect>
+      <x>830</x>
+      <y>310</y>
+      <width>91</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelpix2">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>10</y>
+      <width>71</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelpix3">
+    <property name="geometry">
+     <rect>
+      <x>580</x>
+      <y>10</y>
+      <width>71</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelpix4">
+    <property name="geometry">
+     <rect>
+      <x>840</x>
+      <y>10</y>
+      <width>71</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelHealth5">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>429</y>
+      <width>161</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Health: 1000</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelHealth6">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>430</y>
+      <width>171</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Health: 2000</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelHealth7">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>430</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Health: 4000</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelHealth8">
+    <property name="geometry">
+     <rect>
+      <x>770</x>
+      <y>430</y>
+      <width>151</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Health: 7000</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelDamage1">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>90</y>
+      <width>181</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Damage: 100</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelDamage2">
+    <property name="geometry">
+     <rect>
+      <x>270</x>
+      <y>90</y>
+      <width>161</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Damage: 150</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelDamage3">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>90</y>
+      <width>211</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Damage: 40</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelDamage4">
+    <property name="geometry">
+     <rect>
+      <x>770</x>
+      <y>90</y>
+      <width>201</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Damage: 250</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelSpeed1">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>150</y>
+      <width>211</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Bullet Speed: 4</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelCost1">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>190</y>
+      <width>191</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Cost: 250$</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelCost5">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>470</y>
+      <width>161</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Cost: 250$</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelSpeed2">
+    <property name="geometry">
+     <rect>
+      <x>270</x>
+      <y>150</y>
+      <width>211</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Bullet Speed: 3</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelSpeed3">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>150</y>
+      <width>191</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Bullet Speed: 8</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelSpeed4">
+    <property name="geometry">
+     <rect>
+      <x>770</x>
+      <y>150</y>
+      <width>191</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Bullet Speed: 7</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelCost2">
+    <property name="geometry">
+     <rect>
+      <x>270</x>
+      <y>190</y>
+      <width>191</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Cost: 500$</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelCost3">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>190</y>
+      <width>191</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Cost: 750$</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelCost4">
+    <property name="geometry">
+     <rect>
+      <x>770</x>
+      <y>190</y>
+      <width>191</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Cost: 1250$</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelCost6">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>470</y>
+      <width>161</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Cost: 500$</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelCost7">
+    <property name="geometry">
+     <rect>
+      <x>550</x>
+      <y>470</y>
+      <width>161</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Cost: 750$</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelCost8">
+    <property name="geometry">
+     <rect>
+      <x>770</x>
+      <y>470</y>
+      <width>161</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Cost: 1250$</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelSuccessful">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>590</y>
+      <width>371</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Transaction Complete!</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelRecoil1">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>120</y>
+      <width>181</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Recoil: 700</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelRecoil2">
+    <property name="geometry">
+     <rect>
+      <x>270</x>
+      <y>120</y>
+      <width>181</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Recoil: 600</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelRecoil3">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>120</y>
+      <width>181</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Recoil: 80</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelRecoil4">
+    <property name="geometry">
+     <rect>
+      <x>770</x>
+      <y>120</y>
+      <width>181</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Recoil: 300</string>
+    </property>
+   </widget>
+   <zorder>labelpix</zorder>
+   <zorder>pushButtonContinue</zorder>
+   <zorder>pushButtonBuy1</zorder>
+   <zorder>pushButtonBuy2</zorder>
+   <zorder>pushButtonBuy3</zorder>
+   <zorder>pushButtonBuy4</zorder>
+   <zorder>pushButtonBuy5</zorder>
+   <zorder>pushButtonBuy6</zorder>
+   <zorder>pushButtonBuy7</zorder>
+   <zorder>pushButtonBuy8</zorder>
+   <zorder>labelTokens</zorder>
+   <zorder>labelError</zorder>
+   <zorder>labelpix5</zorder>
+   <zorder>labelpix1</zorder>
+   <zorder>labelpix6</zorder>
+   <zorder>labelpix7</zorder>
+   <zorder>labelpix8</zorder>
+   <zorder>labelpix2</zorder>
+   <zorder>labelpix3</zorder>
+   <zorder>labelpix4</zorder>
+   <zorder>labelHealth5</zorder>
+   <zorder>labelHealth6</zorder>
+   <zorder>labelHealth7</zorder>
+   <zorder>labelHealth8</zorder>
+   <zorder>labelDamage1</zorder>
+   <zorder>labelDamage2</zorder>
+   <zorder>labelDamage3</zorder>
+   <zorder>labelDamage4</zorder>
+   <zorder>labelSpeed1</zorder>
+   <zorder>labelCost1</zorder>
+   <zorder>labelCost5</zorder>
+   <zorder>labelSpeed2</zorder>
+   <zorder>labelSpeed3</zorder>
+   <zorder>labelSpeed4</zorder>
+   <zorder>labelCost2</zorder>
+   <zorder>labelCost3</zorder>
+   <zorder>labelCost4</zorder>
+   <zorder>labelCost6</zorder>
+   <zorder>labelCost7</zorder>
+   <zorder>labelCost8</zorder>
+   <zorder>labelSuccessful</zorder>
+   <zorder>labelRecoil1</zorder>
+   <zorder>labelRecoil2</zorder>
+   <zorder>labelRecoil3</zorder>
+   <zorder>labelRecoil4</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
