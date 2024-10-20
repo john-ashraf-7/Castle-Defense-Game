@@ -5,17 +5,6 @@
 <h2>Overview</h2>
 <p>Castle Defense is a strategic tower defense game developed by a team of three using C++ and the Qt framework. Players must defend their castle from waves of enemy troops by strategically placing defenses and upgrading their arsenal. The game employs advanced algorithms and Object-Oriented Programming (OOP) principles for engaging gameplay and efficient design.</p>
 
-<h2>Project Highlights</h2>
-<ul>
-    <li><strong>Team Leadership:</strong> Led a team of three, managing development tasks and ensuring the project met high-quality standards.</li>
-    <li><strong>Algorithms:</strong> 
-        <ul>
-            <li>Implemented the A* algorithm for pathfinding, enabling troops to find the shortest path to the castle.</li>
-            <li>Used Euclidean distance calculations for gameplay mechanics, such as targeting and shooting.</li>
-        </ul>
-    </li>
-</ul>
-
 <h2>Game Features</h2>
 <ul>
     <li><strong>Login System:</strong> Players can log in or sign up through a login window implemented using hash tables.</li>
@@ -35,6 +24,12 @@
 
 <h2>Technical Details</h2>
 <ul>
+    <li><strong>Algorithms:</strong> 
+        <ul>
+            <li>Implemented the A* algorithm for pathfinding, enabling troops to find the shortest path to the castle.</li>
+            <li>Used Euclidean distance calculations for gameplay mechanics, such as targeting and shooting.</li>
+        </ul>
+    </li>
     <li><strong>Forward Declaration:</strong> Used to resolve circular dependencies between classes, such as the Levels class containing Troops objects that point back to the Levels class.</li>
     <li><strong>Class Aggregation:</strong> 
         <ul>
@@ -49,8 +44,7 @@
 <ul>
     <li>C++</li>
     <li>Qt Framework</li>
-    <li>Algorithms: A* for pathfinding, merge sort for statistics, Euclidean distance for gameplay mechanics</li>
-    <li>Sound Integration for Qt</li>
+    <li>Sound Library for Qt</li>
 </ul>
 
 <h2>Getting Started</h2>
