@@ -6,6 +6,7 @@
 <p>Want to experience the excitement of Castle Defense? You can download and play the game directly! Follow these steps:</p>
 <ol>
     <li><a href="https://drive.google.com/file/d/1dMFJ-ilPXxKHw_7dP16MdVBQuzqX6OPG/view?usp=sharing" target="_blank">Download a deployed version of the game here</a>.</li>
+    <li>Extract the file</li>
     <li>Run <code>ClashOfClans.exe</code> to start the game and enjoy!</li>
 </ol>
 <p><strong>Note:</strong> No additional installations are required to play the game.</p>
