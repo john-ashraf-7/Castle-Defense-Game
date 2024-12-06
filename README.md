@@ -43,8 +43,9 @@
 <h2>Technologies Used</h2>
 <ul>
     <li>C++</li>
+    <li>OOP</li>
     <li>Qt Framework</li>
-    <li>Sound Library for Qt</li>
+    <li>Additional Qt Libraries</li>
 </ul>
 
 <h2>Getting Started</h2>
