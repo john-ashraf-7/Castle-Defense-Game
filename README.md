@@ -58,8 +58,8 @@
     <li>Additional Qt Libraries</li>
 </ul>
 
-<h2>Getting Started</h2>
-<p>To play the game, clone the repository, and build the project using Qt Creator or another compatible IDE. Make sure the Qt framework is installed as well as the QtMultiMedia Library and configured on your system.</p>
+<h2>Running the code</h2>
+<p>To play the game through the code files, clone the repository, and build the project using Qt Creator or another compatible IDE. Make sure the Qt framework is installed as well as the QtMultiMedia Library and configured on your system.</p>
 
 <h2>Team members</h2>
 
