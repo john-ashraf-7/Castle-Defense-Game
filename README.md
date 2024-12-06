@@ -2,6 +2,15 @@
 <h1>Castle Defense Game</h1>
 <p><strong>Project Duration:</strong> November 2023 – December 2023</p>
 
+<h2>Play the Game</h2>
+<p>Want to experience the excitement of Castle Defense? You can download and play the game directly! Follow these steps:</p>
+<ol>
+    <li><a href="https://drive.google.com/file/d/1dMFJ-ilPXxKHw_7dP16MdVBQuzqX6OPG/view?usp=sharing" target="_blank">Download a deployed version of the game here</a>.</li>
+    <li>Run <code>ClashOfClans.exe</code> to start the game and enjoy!</li>
+</ol>
+<p><strong>Note:</strong> No additional installations are required to play the game.</p>
+
+
 <h2>Overview</h2>
 <p>Castle Defense is a strategic tower defense game developed by a team of three using C++ and the Qt framework. Players must defend their castle from waves of enemy troops by strategically placing defenses and upgrading their arsenal. The game employs advanced algorithms and Object-Oriented Programming (OOP) principles for engaging gameplay and efficient design.</p>
 
